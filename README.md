@@ -4,6 +4,8 @@ url for deployed application https://tenues0.github.io/Marketing-page-code-refra
 
 url for code repository https://github.com/tenues0/Marketing-page-code-refractor
 
+![image](https://user-images.githubusercontent.com/95945750/160249282-e36355d8-dec6-4283-a89d-5abe72f1ddf0.png)
+
 This is homework assignment 1 for coding bootcamp consisting of code refractoring for an html and css file.
 
 1) The div tags were replaced with semantic HTML elements
